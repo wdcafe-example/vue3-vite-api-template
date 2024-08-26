@@ -1,6 +1,6 @@
 <template> 
   <div id="header">
-    <v-layout class="rounded rounded-md">      
+    <v-layout>      
 
       <v-app-bar :elevation="2" class="pr-4">
         <v-app-bar-title class="roboto-font font-weight-bold">Application Bar</v-app-bar-title>

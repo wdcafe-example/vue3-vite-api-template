@@ -1,5 +1,5 @@
 <template>
-  <v-layout class="rounded rounded-md">
+  <v-layout>
       <!-- App Bar : Footer Area -->
       <v-footer class="bg-grey-lighten-4 flex-column" :app="true">
         <p class="py-5 font-weight-medium">
